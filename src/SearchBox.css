@@ -1,0 +1,12 @@
+.input-container{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container input{
+    padding: 1rem;
+    background-color: aquamarine;
+    border: none;
+    border-radius: 5px;
+}
