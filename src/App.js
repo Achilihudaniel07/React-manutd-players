@@ -1,5 +1,4 @@
 import SearchBox from './SearchBox';
-// import Card from './Card';
 import Cardlist from './CardList';
 import users from './users.json';
 import "./App.css";
@@ -31,7 +30,6 @@ class App extends React.Component{
   }
 
   updateSearchInput = (event) =>{
-    // console.log (event.target.value);
     this.setState({searchInput:event.target.value})
   }
 
