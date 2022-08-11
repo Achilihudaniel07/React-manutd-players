@@ -3,6 +3,7 @@ import Cardlist from './CardList';
 import users from './users.json';
 import "./App.css";
 import React from 'react';
+import Footer from './Footer/Footer';
 
 
 
@@ -43,6 +44,7 @@ class App extends React.Component{
         
         <SearchBox updateSearchInput={this.updateSearchInput}/>
         <Cardlist clients ={filteredRobots}/>
+        <Footer/>
       </div>
     );
   }
