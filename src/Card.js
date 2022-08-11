@@ -1,12 +1,12 @@
 import './Card.css';
 
-function Card(probs) {
+function Card(props) {
     return (
     <div className="card-container">
-        <img src = {`https://robohash.org/${probs.name}`} alt='...'/>        
-        <h4>{probs.name}</h4>
-        <p>{probs.username}</p>
-        <p>{probs.email}</p>
+        <img src = {`https://robohash.org/ ${props.username}?set=set3`} alt='...'/>        
+        <h4>{props.name}</h4>
+        <p>{props.username}</p>
+        <p>{props.email}</p>
     </div>
   )
 }

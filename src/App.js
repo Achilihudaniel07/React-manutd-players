@@ -39,7 +39,7 @@ class App extends React.Component{
 
 
     return (
-      <div className="">
+      <div className="header">
         <h1 style={{textAlign:'center'}}>Robofriends</h1>
         
         <SearchBox updateSearchInput={this.updateSearchInput}/>
