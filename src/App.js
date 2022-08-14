@@ -46,13 +46,13 @@ class App extends React.Component{
       <div className="header">
 
       
-       <div className='box2'>
+       <div className='box1'>
        <h1 style={{textAlign:'center'}}>MANCHESTER UNITED SQUAD</h1>
         <RoboList clients2 ={filteredRobots2}/>
         </div>
 
 
-        <div className='box1'>
+        <div className='box2'>
           <h1 style={{textAlign:'center'}}>ITF-NECA FRIENDS</h1>
 
           <SearchBox updateSearchInput={this.updateSearchInput}/>
