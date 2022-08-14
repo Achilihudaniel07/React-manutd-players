@@ -1,0 +1,146 @@
+[
+    {
+      "id": 1,
+      "name": " Ajibade Hamidat Abisola",
+      "skills": "HTML,CSS,Javascript.",
+      "github_link": "https://github.com/Hameedarh",
+      "img":"Pictures/Meedarh2.jpeg",
+      "about": "Nice and Caring",
+      "location":"Osun state"
+    },
+    {
+        "id": 2,
+        "name": "Abdulwasiu Saliman",
+        "skills": "Javascript, PHP, Phython, React.",
+        "github_link": "https://github.com/Oladimeji-Dev",
+        "img":"Pictures/Wasiu.jpeg",
+        "about": "Smart and Focused",
+        "location":"Kwara state"
+      },
+      {
+        "id": 3,
+        "name": "Daniel U. Achilihu",
+        "skills": "Javascript, HTML,CSS, React.",
+        "github_link": "https://github.com/Achilihudaniel07",
+        "img":"Pictures/Daniel2.JPG",
+        "about": "Intlligent and Friendly",
+        "location":"Abia state"
+      },
+      {
+        "id": 4,
+        "name": "Oluniyi Israel",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/Oluniyisrael",
+        "img":"Pictures/Oluniyi-Israel.jpeg",
+        "about": "Shy and Intelligent",
+        "location":"Oyo state"
+      },
+      {
+        "id": 5,
+        "name": "Damos Muelji",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/muelji",
+        "img":"Pictures/Damos.jpeg",
+        "about": "Smart and Precise",
+        "location":"Plateau state"
+      },
+      {
+        "id": 6,
+        "name": "Maryam Suleiman",
+        "skills": "HTML, Javascript and React ",
+        "github_link": "https://github.com/MaryamSuleiman",
+        "img":"Pictures/Maryam.jpeg",
+        "about": "Smart and Loving",
+        "location":"Adamawa state"
+      },
+      {
+        "id": 7,
+        "name": "Rabo Abdulsamad",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/",
+        "img":"Pictures/Samad.jpg",
+        "about": "Funny and Intelligent",
+        "location":"Nasarawa state"
+      },
+      {
+        "id": 8,
+        "name": "Momoh Abdulrasheed",
+        "skills": "HTML, CSS and React.",
+        "github_link": "https://github.com/momohrasheed06",
+        "img":"Pictures/Rasheed.jpeg",
+        "about": "Intelligent and Determined",
+        "location":"Kogi state"
+      },
+      {
+        "id": 9,
+        "name": "Olaniyi Israel Olufunmi",
+        "skills": "HTML and Javascript",
+        "github_link": "https://github.com/",
+        "img":"Pictures/Olaniyi-Israel.jpeg",
+        "about": "Funny and Determined",
+        "location":"Oyo state"
+      },
+      {
+        "id": 10,
+        "name": "Lazarus B. Umeh",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/lazumeh",
+        "img":"Pictures/lazarus.jpg",
+        "about": "Bold and Focused",
+        "location":"Edo state"
+      },
+      {
+        "id": 11,
+        "name": "Daubry Martins",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/Daumatt",
+        "img":"Pictures/Mr martins.jpeg",
+        "about": "Smart and Determined",
+        "location":"Bayelsa state"
+      },
+      {
+        "id": 12,
+        "name": "Alexander Gabrielle",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/Gabbie99",
+        "img":"Pictures/Gabby.jpeg",
+        "about": "Awwwwwn and Smart",
+        "location":"Kaduna state"
+      },
+      {
+        "id": 13,
+        "name": "Aluya Ebenezer",
+        "skills": "HTML, CSS , React and Javascript",
+        "github_link": "https://github.com/Ebenezeraluya",
+        "img":"Pictures/Ebenezer.jpeg",
+        "about": "  Bold and Smart",
+        "location":"Edo state"
+      },
+      {
+        "id": 14,
+        "name": "Okechukwu Victor",
+        "skills": "HTML, CSS and Javascript",
+        "github_link": "https://github.com/IamVICtheCG",
+        "img":"Pictures/victor.jpeg",
+        "about": "Smart and Awwwnnn",
+        "location":"Enugu state"
+      },
+      {
+        "id": 15,
+        "name": "Harrison Somtoochukwu",
+        "skills": "React,React Native",
+        "github_link": "https://github.com/Harry654",
+        "img":"Pictures/Somtoo.jpeg",
+        "about": "Intelligent and Focused",
+        "location":"Anambra state"
+      },
+      {
+        "id": 16,
+        "name": "Fiki Mayomikun",
+        "skills": "React, UI/UX Designer",
+        "github_link": "https://github.com/Fiki-josh",
+        "img":"Pictures/lumi.jpeg",
+        "about": "Smart and Precise",
+        "location":"Osun state"
+      }
+]

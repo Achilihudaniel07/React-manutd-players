@@ -1,6 +1,6 @@
 import SearchBox from './SearchBox';
 import Cardlist from './CardList';
-import users from './users.json';
+import members from './members.json';
 import "./App.css";
 import React from 'react';
 import Footer from './Footer/Footer';
@@ -35,12 +35,12 @@ class App extends React.Component{
   }
 
   render(){
-    const filteredRobots = users.filter (item =>(item.name.toLowerCase().includes(this.state.searchInput.toLowerCase())))
+    const filteredRobots = members.filter (item =>(item.name.charAt(0).toLowerCase().includes(this.state.searchInput.toLowerCase())))
 
 
     return (
       <div className="header">
-        <h1 style={{textAlign:'center'}}>Robofriends</h1>
+        <h1 style={{textAlign:'center'}}>ITF-NECA FRIENDS</h1>
         
         <SearchBox updateSearchInput={this.updateSearchInput}/>
         <Cardlist clients ={filteredRobots}/>

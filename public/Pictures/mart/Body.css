@@ -1,0 +1,57 @@
+.first{
+    display: flex;
+    justify-content: space-around;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 40px;
+}
+.sec span{
+    color: plum;
+        }
+
+h1{
+    width: 40%;
+    /* background-color: aqua; */
+    /* margin-left: 150; */
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+    
+    
+
+}
+p{
+    width: 430px;
+    color:plum;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.sec input{
+    border-radius: 20px;
+    padding: 15px;
+    background-color: wheat;
+    border: none;
+}
+.sec button{
+    background-color: plum;
+    padding: 15px;
+    width: 60px;
+    border-radius: 20px;
+    border: none;
+}
+#image{
+    display: none;
+    
+}
+.hit{
+    height: 100%;
+}
+@media only screen and (max-width:1000px){
+    #image{
+        display: grid;
+        margin-top: 30px;
+    }
+    .hit{
+        display: none;
+    }
+}
