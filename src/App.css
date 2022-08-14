@@ -32,7 +32,7 @@
   width: 120%;
   height: 100%;
   background: linear-gradient(90deg, transparent 0%, gold 5%, #ef0606 100%);
-  animation: text 20s linear forwards;
+  animation: text 1s linear forwards;
   -webkit-animation: text 10s linear forwards;
   border-radius: 5%;
   -webkit-border-radius: 5%;
