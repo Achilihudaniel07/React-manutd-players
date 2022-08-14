@@ -1,5 +1,4 @@
 import SearchBox from './SearchBox';
-import Cardlist from './CardList';
 import members from './members.json';
 import "./App.css";
 import React from 'react';
