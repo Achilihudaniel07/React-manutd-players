@@ -47,13 +47,13 @@ class App extends React.Component{
 
       
        <div className='box1'>
-       <h1 style={{textAlign:'center'}}>MANCHESTER UNITED SQUAD</h1>
+       <h1 id='hd1' style={{textAlign:'center'}}>MANCHESTER UNITED SQUAD</h1>
         <RoboList clients2 ={filteredRobots2}/>
         </div>
 
 
         <div className='box2'>
-          <h1 style={{textAlign:'center'}}>ITF-NECA FRIENDS</h1>
+          <h1 id='hd2' style={{textAlign:'center'}}>ITF-NECA FRIENDS</h1>
 
           <SearchBox updateSearchInput={this.updateSearchInput}/>
           <CardList clients ={filteredRobots}/>
