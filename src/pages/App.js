@@ -26,7 +26,7 @@ class App extends React.Component{
     return (
       <div className="header">
 
-        <div className='box2'>
+        <div className='box1'>
           <h1 id='hd2' style={{textAlign:'center'}}>MANCHESTER UNITED SQUAD</h1>
 
           <SearchBox updateSearchInput={this.updateSearchInput}/>
@@ -38,7 +38,7 @@ class App extends React.Component{
 
         <hr></hr>
       
-        <div className='box3'>
+        <div className='box2'>
       
           <Footer/>
           </div>

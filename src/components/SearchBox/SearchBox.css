@@ -1,25 +1,9 @@
-/* .input-container{
-    padding: 1rem;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-.input-container input{
-    padding: 1rem;
-    background-color: gold;
-    border: none;
-    border-radius: 5px;
-} */
-
-
-
 .search-box{
     position: absolute;
-    top: 20%;
     left: 50%;
     height: 30px;
     margin-bottom: 20px;
-    margin-top: 20px;
+    margin-top: -20px;
     background: rgb(255, 255, 254);
     border-radius: 40px;
     -webkit-border-radius: 40px;

@@ -1,12 +1,12 @@
 import React from 'react'
-import Manutdp from './Manutdp'
+import Manutdp from '../card/Manutdp'
 
 function ManutdpList(props) {
   return (
 
 <div className='card-wrapper'>
         {
-          props.clients2.map((item) =>(
+          props.clients.map((item) =>(
           <Manutdp
           key={item.id.toString()}
           name={item.name}
