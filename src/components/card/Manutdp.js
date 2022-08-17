@@ -1,6 +1,6 @@
-import './Robo.css';
+import './Manutdp.css';
 
-function Robo(props) {
+function Manutdp(props) {
   return (
     <div  className="card-container">
         <div className='face face2'>
@@ -27,4 +27,4 @@ function Robo(props) {
   )
 }
 
-export default Robo
+export default Manutdp

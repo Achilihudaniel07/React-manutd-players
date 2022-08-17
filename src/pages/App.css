@@ -1,13 +1,7 @@
-/* body{ */
-  /* background: linear-gradient(360deg, #ef0b0b,#1f18e4); */
-/* } */
-
-
   body .box1{
     height: 100vh;
     width: 100%;
-    background-image: url(background14.jpg);
-    /* background-size: cover; */
+    background-image: url(../components/card/Images/background14.jpg);
     background-position: center;
     display: table;
     background-attachment: fixed;
@@ -16,7 +10,7 @@
   body .box2{
     height: 100vh;
     width: 100%;
-    background-image: url(./background16.jpg);
+    background-image: url(../components/card/Images/background15.jpg);
     background-size: cover;
     background-position: center;
     display: table;
@@ -25,7 +19,7 @@
   body .box3{
     height: 100vh;
     width: 100%;
-    background-image: url(./background15.jpg);
+    background-image: url(../components/card/Images/background16.jpg);
     background-size: cover;
     background-position: center;
     display: table;

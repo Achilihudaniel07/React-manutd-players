@@ -1,13 +1,13 @@
 import React from 'react'
-import Robo from './Robo'
+import Manutdp from './Manutdp'
 
-function RoboList(props) {
+function ManutdpList(props) {
   return (
 
 <div className='card-wrapper'>
         {
           props.clients2.map((item) =>(
-          <Robo
+          <Manutdp
           key={item.id.toString()}
           name={item.name}
           username={item.username}
@@ -23,4 +23,4 @@ function RoboList(props) {
   )
 }
 
-export default RoboList
+export default ManutdpList
