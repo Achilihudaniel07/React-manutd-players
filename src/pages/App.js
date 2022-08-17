@@ -27,7 +27,7 @@ class App extends React.Component{
       <div className="header">
 
         <div className='box1'>
-          <h1 id='hd2' style={{textAlign:'center'}}>MANCHESTER UNITED SQUAD</h1>
+          <h1 id='hd1' style={{textAlign:'center'}}>MANCHESTER UNITED SQUAD</h1>
 
           <SearchBox updateSearchInput={this.updateSearchInput}/>
           <ManutdpList clients ={filteredPlayers}/>
