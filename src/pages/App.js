@@ -20,7 +20,7 @@ class App extends React.Component{
   }
 
   render(){
-    const filteredPlayers= users.filter (item =>(item.name.charAt(0).toLowerCase().includes(this.state.searchInput.toLowerCase())))
+    const filteredPlayers= users.filter (item =>(item.name.toLowerCase().includes(this.state.searchInput.toLowerCase())))
 
 
     return (
